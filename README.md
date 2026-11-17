@@ -9,7 +9,8 @@ I'm BadDev8, a 16 y.o. bad programmer.
 
 * [Main interests and projects](#main-interests-and-projects)
 * [Todo](#todo)
-* [Programming skill tier list](#programming-skill-tier-list)
+* [Programming tier list](#programming-tier-lists)
+* [Full project list](#full-project-list)
 
 ## Main interests and projects
 
