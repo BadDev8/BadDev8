@@ -3,7 +3,8 @@
 ![Preview](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNrajNjbm1xajI0dDM5Mmt1NGpsYmJpYjFqcGJobmt6dXptYmZhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
 
 <br>
-I'm BadDev8, a 16 y.o. bad programmer.
+
+I'm BadDev8, a 16 y.o. bad programmer (name suggests it).
 
 ### TOC
 
@@ -17,7 +18,7 @@ I'm BadDev8, a 16 y.o. bad programmer.
 I'm mainly interested in math and machine learning, but often diverge on other half-correlated topics.
 
 I'm currently building:
-* Game of God, an evolution simulator in C++ using MLPACK and SFML
+* Game of God, an evolution simulator in C++ using [mlpack](https://github.com/mlpack/mlpack) and [SFML](https://github.com/sfml/sfml)
 * MLCXX, an educational library for linalg, neural networks / derivation engine in C++
 
 ## Todo
